@@ -8,3 +8,7 @@ cypress/cypress/downloads/
 .DS_Store
 .idea/
 .vscode/
+robot/output.xml
+robot/log.html
+robot/report.html
+robot/*.png
